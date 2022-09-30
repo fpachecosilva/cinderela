@@ -14,7 +14,7 @@ foreach ($data->locais as $local) {
                     <table>
                         <tr>
                             <td class="cel-amarela">Dias e Sessões</td>
-                            <td class="cel-amarela">QUI e SEX - 17h30, e 20h00</td>
+                            <td class="cel-amarela">QUI e SEX - 17h30 e 20h00</td>
                         </tr>
                         <tr>
                             <td class="cel-azul">Magic Fast Pass (Acesso Exclusivo)</td>
@@ -29,8 +29,8 @@ foreach ($data->locais as $local) {
                             <td>Show, Entrada e Prato Principal</td>
                         </tr>
                         <tr>
-                            <td>De R$ 124,90 por R$ 94,90</td>
-                            <td>De R$ 114,90 por R$ 84,90</td>
+                            <td>De R$ 94,90 por R$ 84,90</td>
+                            <td>De R$ 84,90 por R$ 74,90</td>
                         </tr>
                     </table>
 
@@ -48,50 +48,17 @@ foreach ($data->locais as $local) {
                             <td>Promocional Pré Venda Show + Café da Manhã</td>
                         </tr>
                         <tr>
-                            <td>R$ 99,90</td>
-                            <td>R$ 89,90</td>
+                            <td>R$ 79,90</td>
+                            <td>R$ 69,90</td>
                         </tr>
                     </table>
                     
                     <table>
                         <tr>
                             <td class="cel-amarela" rowspan="2" colspan="2">Dias e Sessões</td>
-                            <td class="cel-amarela" colspan="2">SÁB - 20h30</td>
+                            <td class="cel-amarela" colspan="2">SAB e DOM - 13h, 15h30, 18h e 20h30</td>
                         </tr>
-                        <tr>
-                            <td class="cel-amarela" colspan="2">DOM - 18h e 20h30</td>
-                        </tr>
-                        <tr>
-                            <td class="cel-azul" colspan="2">Magic Fast Pass (Acesso Exclusivo)</td>
-                            <td class="cel-verde" colspan="2">Acesso Normal</td>
-                        </tr>
-                        <tr class="colunas-4">
-                            <td>Combo Premium</td>
-                            <td>Combo VIP</td>
-                            <td>Combo Premium</td>
-                            <td>Combo VIP</td>
-                        </tr>
-                        <tr class="colunas-4">
-                            <td>Show, Entrada, Prato Principal e Sobremesa</td>
-                            <td>Show, Entrada, Prato Principal</td>
-                            <td>Show, Entrada, Prato Principal e Sobremesa</td>
-                            <td>Show, Entrada, Prato Principal</td>
-                        </tr>
-                        <tr class="colunas-4">
-                            <td>De R$ 139,90 por R$ 109,90</td>
-                            <td>R$ 99,90</td>
-                            <td>De R$ 109,90 por R$ 79,90</td>
-                            <td>R$ 69,90</td>
-                        </tr>
-                    </table>
-
-                    <table>
-                        <tr>
-                            <td class="cel-amarela" rowspan="2" colspan="2">Dias e Sessões</td>
-                            <td class="cel-amarela" colspan="2">SÁB - 13h, 15h30, 18h</td>
-                        </tr>
-                        <tr>
-                            <td class="cel-amarela" colspan="2">DOM - 13h, 15h30</td>
+                        <tr>                            
                         </tr>
                         <tr>
                             <td class="cel-azul" colspan="2">Magic Fast Pass (Acesso Exclusivo)</td>
@@ -110,13 +77,12 @@ foreach ($data->locais as $local) {
                             <td>Show, Entrada, Prato Principal</td>
                         </tr>
                         <tr class="colunas-4">
-                            <td>De R$ 149,90 por R$ 119,90</td>
-                            <td>R$ 119,90</td>
-                            <td>De R$ 139,90 por R$ 109,90</td>
-                            <td>R$ 99,90</td>
+                            <td>De R$ 109,90 por R$ 99,90</td>
+                            <td>R$ 89,90</td>
+                            <td>De R$ 99,90 por R$ 89,90</td>
+                            <td>R$ 79,90</td>
                         </tr>
                     </table>
-
                 </div>
             </div>
         ';

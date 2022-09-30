@@ -40,25 +40,20 @@
 		</article>
 
 		<h3 id="ancora-abas">
-			Megaexperiência inédita no Brasil convida pessoas de todas as idades para um dos bailes mais famosos dos contos de fada. Prepare-se para viver momentos de fantasia cheios de sabor, música, tecnologia, dança, teatro e ilusionismo. A Bela e A Fera Experience é uma atração cheia de surpresas para encantar toda a família
+			Experiência inédita no Brasil convida pessoas de todas as idades para um dos bailes mais famosos dos contos de fada. Prepare-se para viver momentos de fantasia cheios de sabor, música, tecnologia, dança, teatro e ilusionismo. Cinderela Experience é uma atração cheia de surpresas para encantar toda a família.​
 		</h3>
 		<a class="Btn-primary" href="#ingressos">Comprar</a>
 	</section>
 
 	<section id="menu-abas">
 		<p id="megashow">
-			Ao chegar, o visitante já será recebido no jardim de um suntuoso castelo com em média 700mt² construído para receber A Bela e a Fera Dining Experience. Toda experiência começa ao se deparar com a entrada do castelo, perfeito para incríveis registros fotográficos.​
+			Cinderela, uma das princesas mais querida dos contos de fada convida todos para o grande banquete do seu casamento. Prepare-se para viver momentos de fantasia cheios de sabor, música, tecnologia, dança, teatro e ilusionismo. Cinderela Experience é uma atração cheia de surpresas para encantar toda a família.​
 			<br><br>
-			Após a recepção por nossa equipe devidamente caracterizada. Os visitante serão convidados ao salão real, onde o baile irá começar.  Depois de tomarem os seus lugares e realizarem seus primeiros pedidos, os funcionários da realeza levarão as delicias solicitadas já preparando o público para a segunda parte da experiência.​
-			<br><br>
-			Com a plateia em formato de restaurante, o show é uma releitura, adaptada da clássica história, originalmente escrita pela francesa Gabrielle-Suzanne Barbot em 1.740. Com dezenas de artistas, os convidados desse glamuroso evento podem esperar muita música, dança, teatro e ilusionismo, além de efeitos especiais visuais durante todo o percurso. Tudo isso enquanto se deliciam com uma experiência gastronômica desenvolvida especialmente para o evento. ​
-			<br><br>
-			O figurino é um show à parte. Com grande riqueza de detalhes, darão vida e realismo aos clássicos personagens Bela, Fera (que se transforma em príncipe), Candelabro, Relógio e muitos outros. Toda a equipe (recepcionistas, vendedores e garçons) também estará caracterizada com figurinos de época para que a imersão seja ainda mais completa.
-			<br><br>
-			Os ingressos de A Bela e A Fera Experience têm preços a partir de R$45,00 (couvert artístico). O evento atende a todas as regras de distanciamento social e higiene necessárias para sua realização.​
-			<br><br>
-			Os assentos são definidos por ordem de chegada. Temos dois palcos, sendo um deles 360°.<br>			
-			Crianças a partir dos 24 meses são pagantes.
+			Após a recepção por nossa equipe devidamente caracterizada. Os visitantes serão convidados ao salão real, onde o banquete irá acontecer. Depois de tomarem os seus lugares e realizarem seus primeiros pedidos, os funcionários da realeza levarão as delícias solicitadas já preparando o público para a segunda parte da experiência.​
+			<br>
+			Os assentos são definidos por ordem de chegada.​
+			<br>
+			Crianças a partir dos 24 meses são pagantes.​
 		</p>
 
 		<video id='videolol' src="<?php echo $images ?>cinderela.mp4" preload="auto" type="video/mp4" controls poster=""></video>
@@ -73,7 +68,7 @@
 		<h1 class="">CINDERELA EXPERIENCE</h1>
 
 		<div class="menu-locais-links">
-			<?
+			<?php
 			foreach ($data->locais as $local) {
 				echo '
 					<a class="'.$local->ativo.'"local="'.$local->sigla.'">'.$local->nome.'</a>
@@ -82,7 +77,7 @@
 			?>
 		</div>
 
-		<?
+		<?php
 		foreach ($data->locais as $local) {
 			echo '
 				<div class="local '.$local->sigla.' '.$local->ativo.'">
@@ -117,7 +112,7 @@
 		</p>		
 		
 		<div class="wrapper-card">
-			<?
+			<?php
 			foreach ($data->locais as $local) {
 				echo'
 					<div class="card">
