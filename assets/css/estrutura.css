@@ -199,9 +199,10 @@ body {display: none; font-family: 'Montserrat', sans-serif; box-sizing: border-b
 	#valores .table-megashow .linha2 { background-color: #c6e0b4; }
 	#valores .table-megashow .linha3 { background-color: #a9d08e; }
 
-	#valores table tr td:nth-child(1) { width: 20%; }
+	#valores table tr td { width: 33.33%; }
+	/* #valores table tr td:nth-child(1) { width: 20%; }
 	#valores table tr td:nth-child(2) { width: 20%; }
-	#valores table tr td:nth-child(3) { width: 60%; }
+	#valores table tr td:nth-child(3) { width: 60%; } */
 	#valores .setora { background-color: #f8cbad; color: #2b2b2b; }
 	#valores .setorvip { background-color: #ffe699; color: #2b2b2b; }
 	#valores .setorpremium { background-color: #ddebf7; color: #2b2b2b; }

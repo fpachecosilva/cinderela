@@ -9,7 +9,8 @@
                 "linha2": "Sáb e Dom - 10h30, 13h00, 15h30, 18h00, e 20h30"
             },
             "tabelas": {
-                "modelo3": true
+                "modelo3": false,
+                "modelosimples": true
             },
             "local": "morumbi town shopping",
             "link": "https://olhaoingresso.showare.com.br/Performance/ShoWareFrontEndPerPerformance.aspx?eventid=435&filter=day&websaleschannelkey=internetchaim&orig=cisp"
