@@ -11,26 +11,41 @@ foreach ($data->locais as $local) {
                 </h2>
                 
                 <div class="modelo-simples">
-                  <table>
-                      <tr>
-                          <td colspan="3" class="cel-amarela">Couvert Artístico</td>
-                      </tr>
-                      <tr>
-                          <td class="">PADRÃO</td>
-                          <td class="cel-azul">Acesso Exclusivo (Magic Fast Pass)</td>
-                          <td class="cel-verde">Acesso Normal</td>
-                      </tr>
-                      <tr>
-                          <td>QUI / SEX</td>
-                          <td>R$ 60,00</td>
-                          <td>R$ 50,00</td>
-                      </tr>
-                      <tr>
-                          <td>SÁB / DOM</td>
-                          <td>R$ 70,00</td>
-                          <td>R$ 60,00</td>
-                      </tr>                        
-                  </table>      
+                    <table>
+                        <tr>
+                            <td class="cel-azul">Couvert Artístico</td>
+                            <td class="">Acesso Exclusivo (Magic Fast Pass)</td>
+                            <td class="">Acesso Normal</td>
+                        </tr>
+                        <tr>
+                            <td>QUI / SEX</td>
+                            <td>R$ 60,00</td>
+                            <td>R$ 50,00</td>
+                        </tr>
+                        <tr>
+                            <td>SÁB / DOM</td>
+                            <td>R$ 70,00</td>
+                            <td>R$ 60,00</td>
+                        </tr>
+                    </table>
+
+                    <table>
+                        <tr>
+                            <td class="cel-verde">Promocional  Couvert Artístico + Consumação</td>
+                            <td class="">Acesso Exclusivo (Magic Fast Pass)</td>
+                            <td class="">Acesso Normal</td>
+                        </tr>
+                        <tr>
+                            <td>QUI / SEX</td>
+                            <td>R$ 90,00 (R$ 45 Couvert Art + R$ 45 Consumação)</td>
+                            <td>R$ 80,00 (R$ 35 Couvert Art + R$ 45 Consumação)</td>
+                        </tr>
+                        <tr>
+                            <td>SÁB / DOM</td>
+                            <td>R$ 100,00 (R$ 55 Couvert Art + R$ 45 Consumação)</td>
+                            <td>R$ 90,00 (R$ 45 Couvert Art + R$ 45 Consumação)</td>
+                        </tr>
+                    </table>
                 </div>
             </div>
         ';

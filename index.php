@@ -20,10 +20,18 @@
 </head>
 
 <body class="Home">
-	<header class="DesktopItem">
+	<header class="">
+		<div class="menu">
+			<div class="center">
+				<div></div>
+			</div>
+		</div>
 		<article>
+		<img class="logo" src="<?php echo $images ?>logo.png">
 			<div class="box-links">
-				<a href="#menu-abas">Experiência</a>
+				<a href="#experiencia">Experiência</a>
+				<a href="#acessos">Acessos</a>
+				<a href="#gastronomia">Gastronomia</a>
 				<a href="#icones">Informações</a>
 			</div>
 			<div class="box-social">
@@ -57,6 +65,72 @@
 		</p>
 
 		<video id='videolol' src="<?php echo $images ?>cinderela.mov" preload="auto" type="video/mp4" controls poster=""></video>
+	</section>
+
+	<section id="content">
+		<article>
+			<div id="experiencia" class="content-item">
+				<h3>
+					CINDERELA DINNER SHOW: MEGA EXPERIÊNCIA CHEGA À SÃO PAULO, EM NOVEMBRO, NO SHOPPING MORUMBI TOWN
+				</h3>
+				<p>
+				A atração, que acontece dentro do castelo da Cinderela, conta com muitas surpresas e convida toda a família para uma experiência mágica e única! Prepare-se para viver momentos de fantasia cheios de sabor, música, dança, ilusionismo e muito mais.​
+				<br><br>
+					Já imaginou fazer parte da história de uma das princesas mais conhecidas no mundo? E o melhor, uma história ainda não contada! Cinderela Experience traz o público, com muita música e humor, para dentro da festa de casamento de Ella (Cinderela) e Alain (Príncipe), contada a partir das antigas memórias de - ninguém mais, ninguém menos - que a Madrasta. ​
+					<br><br>
+					O show conta com um talentoso e carismático elenco, que interpreta os personagens do clássico livro do escritor francês Charles Perrault, de 1697, que deu origem - anos depois - ao filme. ​
+					<br><br>
+					Os convidados encontraram diversos cenários lúdicos e mágicos para registrar toda a experiência e torná-la ainda mais inesquecível, como por exemplo, logo na entrada do evento, a impactante e grandiosa fachada do castelo.​
+					<br><br>
+					Os figurinos e efeitos visuais são um show à parte: o vestido azul da princesa Cinderela ganha vida em cena ao inflar-se e iluminar todo o salão de baile, e sua carruagem aparece durante o espetáculo como um passe de mágica.​
+					<br><br>
+					Com números musicais românticos que emocionam, coreografias divertidas, efeitos de luz e som dignos de uma grande produção, a experiência imersiva é um grande espetáculo 360º, que conta com interações em toda a estrutura do castelo, entre elas surpreendentes números aéreos.​
+				</p>
+			</div>
+
+			<div id="acessos" class="content-item">
+				<h3>
+					Magic Fast Pass​
+				</h3>
+				<p>
+					Acesso exclusivo. Nessa modalidade a entrada é liberada antes das demais (Acesso Normal), assim que é liberado o salão para nossos clientes. Tornando o Magic Fast Pass, um acesso onde será possível o cliente escolher primeiro as mesas para seu grupo.​
+				</p>
+			</div>
+
+			<div id="acesso" class="content-item">
+				<h3>
+					Magic Fast Pass​
+				</h3>
+				<p>
+					Acesso exclusivo. Nessa modalidade a entrada é liberada antes das demais (Acesso Normal), assim que é liberado o salão para nossos clientes. Tornando o Magic Fast Pass, um acesso onde será possível o cliente escolher primeiro as mesas para seu grupo.​
+				</p>
+			</div>
+
+			<div id="gastronomia" class="content-item">
+				<h3>
+					Cardápio
+				</h3>
+				<p>
+					<strong>Entradas​</strong>
+					<br>
+					<u>Jaq Crocs (5 unid):</u> Crocante de Tapioca com Queijo em Formato de Estrela) com Geléia de Blue Berry;​<br>
+					<u>Irmãs Malvadas (2 unid):</u> Bruschetta de Tomates Confitados com Pérolas Mágicas de Manjericão e Bruschetta de Mix de Cogumelos com Pérolas Mágicas de Trufa Branca;​<br>
+					<u>Lucifer (3 unid):</u> Arancini Negro Recheado de Salmão com Coulis de Morangos Silvestres;​<br>
+					<u>Salada do Rei:</u> Mesclun de Folhas Verdes com Mangas Confitadas e Salmão Defumado ou Carpaccio com Azeite Mágico de Tangerina.​<br>
+					​<br>
+					<strong>Principais​</strong>
+					<br>
+					<u>Grão-Duque:</u> Nhoque com Fonduta de Queijo e Supreme de Frango Glaciado e Brotos de Beterraba com Gelo Seco Natural;​<br>
+					<u>Fada Madrinha:</u> Risoto de Abóbora com Carne Seca e Nuvem de Pimenta Biquinho  (Servido na Mini Moranga com Pavil Mágico;​<br>
+					<u>Lady Tremeine:</u> Burger no Pão Australiano com Blend da Casa, Tomates Confitados, Maionese de Páprica Defumada, Crisp de Alho Poró e Queijo Empanado com Gelo Seco Natural;​
+					<br><br>
+					<strong>Sobremesas​</strong>
+					<br>
+					<u>O Príncipe:</u> Brownie de Chocolate Semi Amargo com Castanhas, Coberto com Ganache de Chocolate Branco, Suspiro Nitro de Avelã com Ganache de Chocolate Branco com Coulis de Maracujá Dourada;​<br>
+					Intocável da Cinderela: Suspiro Nitro Blue com Tartelete com Mousse de Chocolate Branco com Lâminas de Amendôas Tostadas e Calda de Cereja;
+				</p>
+			</div>
+		</article>
 	</section>
 
 	<!-- <div class="parceiros DesktopItem">
