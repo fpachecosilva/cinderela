@@ -128,6 +128,8 @@
 					<br>
 					<u>O Príncipe:</u> Brownie de Chocolate Semi Amargo com Castanhas, Coberto com Ganache de Chocolate Branco, Suspiro Nitro de Avelã com Ganache de Chocolate Branco com Coulis de Maracujá Dourada;​<br>
 					Intocável da Cinderela: Suspiro Nitro Blue com Tartelete com Mousse de Chocolate Branco com Lâminas de Amendôas Tostadas e Calda de Cereja;
+					<br><br>
+					<p>Obs.: O cardápio pode sofrer algumas alterações sem aviso prévio.</p>
 				</p>
 			</div>
 		</article>
