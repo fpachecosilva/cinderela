@@ -113,7 +113,7 @@
 				<p>
 					<strong>Entradas​</strong>
 					<br>
-					<u>Jaq Crocs (5 unid):</u> Crocante de Tapioca com Queijo em Formato de Estrela) com Geléia de Blue Berry;​<br>
+					<u>Jaq Crocs (5 unid):</u> Crocante de Tapioca (com Queijo em Formato de Estrela) com Geléia de Blue Berry;​<br>
 					<u>Irmãs Malvadas (2 unid):</u> Bruschetta de Tomates Confitados com Pérolas Mágicas de Manjericão e Bruschetta de Mix de Cogumelos com Pérolas Mágicas de Trufa Branca;​<br>
 					<u>Lucifer (3 unid):</u> Arancini Negro Recheado de Salmão com Coulis de Morangos Silvestres;​<br>
 					<u>Salada do Rei:</u> Mesclun de Folhas Verdes com Mangas Confitadas e Salmão Defumado ou Carpaccio com Azeite Mágico de Tangerina.​<br>
@@ -121,13 +121,13 @@
 					<strong>Principais​</strong>
 					<br>
 					<u>Grão-Duque:</u> Nhoque com Fonduta de Queijo e Supreme de Frango Glaciado e Brotos de Beterraba com Gelo Seco Natural;​<br>
-					<u>Fada Madrinha:</u> Risoto de Abóbora com Carne Seca e Nuvem de Pimenta Biquinho  (Servido na Mini Moranga com Pavil Mágico;​<br>
+					<u>Fada Madrinha:</u> Risoto de Abóbora com Carne Seca e Nuvem de Pimenta Biquinho  (Servido na Mini Moranga com Pavil Mágico);​<br>
 					<u>Lady Tremeine:</u> Burger no Pão Australiano com Blend da Casa, Tomates Confitados, Maionese de Páprica Defumada, Crisp de Alho Poró e Queijo Empanado com Gelo Seco Natural;​
 					<br><br>
 					<strong>Sobremesas​</strong>
 					<br>
 					<u>O Príncipe:</u> Brownie de Chocolate Semi Amargo com Castanhas, Coberto com Ganache de Chocolate Branco, Suspiro Nitro de Avelã com Ganache de Chocolate Branco com Coulis de Maracujá Dourada;​<br>
-					Intocável da Cinderela: Suspiro Nitro Blue com Tartelete com Mousse de Chocolate Branco com Lâminas de Amendôas Tostadas e Calda de Cereja;
+					<u>Intocável da Cinderela:</u> Suspiro Nitro Blue com Tartelete com Mousse de Chocolate Branco com Lâminas de Amendôas Tostadas e Calda de Cereja;
 					<br><br>
 					<p>Obs.: O cardápio pode sofrer algumas alterações sem aviso prévio.</p>
 				</p>
