@@ -108,9 +108,10 @@
 
 			<div id="gastronomia" class="content-item">
 				<h3>
-					Cardápio
+					<!-- Cardápio -->
+					<strong>Em breve mais informações.</strong>
 				</h3>
-				<p>
+				<!-- <p>
 					<strong>Entradas​</strong>
 					<br>
 					<u>Jaq Crocs (5 unid):</u> Crocante de Tapioca (com Queijo em Formato de Estrela) com Geléia de Blue Berry;​<br>
@@ -130,7 +131,7 @@
 					<u>Intocável da Cinderela:</u> Suspiro Nitro Blue com Tartelete com Mousse de Chocolate Branco com Lâminas de Amendôas Tostadas e Calda de Cereja;
 					<br><br>
 					<p>Obs.: O cardápio pode sofrer algumas alterações sem aviso prévio.</p>
-				</p>
+				</p> -->
 			</div>
 		</article>
 	</section>
