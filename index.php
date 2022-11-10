@@ -64,7 +64,7 @@
 			Crianças a partir dos 24 meses são pagantes.​
 		</p>
 
-		<video id='videolol' src="<?php echo $images ?>cinderela.mov" preload="auto" type="video/mp4" controls poster=""></video>
+		<video id='videolol' src="<?php echo $images ?>cinderela.mp4" preload="auto" type="video/mp4" controls poster=""></video>
 	</section>
 
 	<section id="content">
